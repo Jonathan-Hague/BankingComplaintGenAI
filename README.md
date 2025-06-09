@@ -104,8 +104,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Prepare your data:
-   - Place your complaint data file (`complaints_2019_BofA.csv`) in the `data` directory
+1. Prepare the data:
+   - Place the complaint data file (`complaints_2019_BofA.csv`) in the `data` directory
    - Ensure the CSV file has a 'Consumer complaint narrative' column
 
 2. Run the analysis:
@@ -132,7 +132,7 @@ The script generates several output files in the `data` directory:
 
 ## Configuration
 
-You can modify the following parameters in `src/config/config.py`:
+The following prameters in `src/config/config.py` can be modified:
 
 1. Model Parameters:
    - `MODEL_NAME`: XLNet model variant
@@ -186,8 +186,8 @@ The project evaluates two approaches:
 
 ## License
 
-[Specify your license here]
+MIT
 
 ## Contact
 
-[Your contact information] 
+jhague@stanford.edu
