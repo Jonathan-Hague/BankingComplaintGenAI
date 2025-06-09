@@ -186,7 +186,7 @@ The project evaluates two approaches:
 
 ## License
 
-MIT
+MIT License
 
 ## Contact
 
