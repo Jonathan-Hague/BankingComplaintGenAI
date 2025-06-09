@@ -105,7 +105,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. Prepare the data:
-   - Place the complaint data file (`complaints_2019_BofA.csv`) in the `data` directory
+   - Place the complaint data file (`complaints_2019_BofA.csv`) (consumer complaints data filtered by financial institution, in this case BofA, for 2019) in the `data` directory
    - Ensure the CSV file has a 'Consumer complaint narrative' column
 
 2. Run the analysis:
